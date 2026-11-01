@@ -1,0 +1,29 @@
+SITE: RETEXTUALIZAR PARA INCLUIR — LUA DE LARVAS
+
+Este pacote está pronto para publicação no GitHub Pages.
+
+COMO PUBLICAR
+
+1. Crie um repositório novo no GitHub.
+2. Entre no repositório e escolha “Add file” > “Upload files”.
+3. Envie TODOS os itens que estão dentro desta pasta:
+   - index.html
+   - styles.css
+   - favicon.svg
+   - .nojekyll
+   - pasta assets completa
+4. Clique em “Commit changes”.
+5. Abra “Settings” > “Pages”.
+6. Em “Build and deployment”, selecione:
+   - Source: Deploy from a branch
+   - Branch: main
+   - Folder: /(root)
+7. Clique em “Save” e aguarde o endereço do site aparecer.
+
+IMPORTANTE
+
+- Não envie apenas o arquivo index.html: a pasta assets contém vídeos, imagens, PDFs, logos e o QR Code.
+- O QR Code foi preservado e continua apontando para o endereço original já divulgado.
+- A versão é estática e não possui área administrativa ou edição pela página.
+- Para manter o funcionamento, não altere os nomes dos arquivos nem a organização das pastas.
+
